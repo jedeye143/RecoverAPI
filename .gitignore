@@ -1,0 +1,47 @@
+﻿# Build results
+bin/
+obj/
+out/
+debug/
+release/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core config files
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+# Optional: exclude main config if it has secrets
+# appsettings.json
+
+# Entity Framework
+*.dbmdl
+*.bak
+*.mdf
+*.ldf
+
+# IIS Express
+.vscode/
+.vs/
+*.vscode
+*.vspscc
+*.vssscc
+*.launchSettings.json
+
+# Rider / JetBrains
+.idea/
+
+# Logs and generated files
+*.log
+*.cache
+*.pdb
+*.publishsettings
+
+# System files
+.DS_Store
+Thumbs.db
